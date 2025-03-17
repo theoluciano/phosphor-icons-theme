@@ -1,1 +1,1 @@
-# phosphor-icons-theme
+# Phosphor Icons Theme
