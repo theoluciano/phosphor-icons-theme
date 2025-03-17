@@ -1,0 +1,33 @@
+{
+  "$schema": "https://zed.dev/schema/icon_themes/v0.2.0.json",
+  "name": "Phosphor Icons Theme",
+  "author": "Theo Luciano",
+  "themes": [
+    {
+      "name": "Phosphor Icons Theme",
+      "appearance": "dark",
+      "directory_icons": {
+        "collapsed": "./icons/folder-closed.svg",
+        "expanded": "./icons/folder-open.svg"
+      },
+      "file_suffixes": {
+        "svg": "svg"
+      },
+      "file_icons": {
+        "css": { "path": "./icons/css.svg" },
+        "document": { "path": "./icons/document.svg" },
+        "image": { "path": "./icons/image.svg" },
+        "svg": { "path": "./icons/svg.svg" },
+        "c": { "path": "./icons/c.svg" },
+        "cpp": { "path": "./icons/cpp.svg" },
+        "csharp": { "path": "./icons/csharp.svg" },
+        "javascript": { "path": "./icons/javascript.svg" },
+        "python": { "path": "./icons/python.svg" },
+        "react": { "path": "./icons/react.svg" },
+        "ruby": { "path": "./icons/ruby.svg" },
+        "typescript": { "path": "./icons/typescript.svg" },
+        "rust": { "path": "./icons/rust.svg" }
+      }
+    }
+  ]
+}
