@@ -14,6 +14,7 @@
         "svg": "svg"
       },
       "file_icons": {
+        "audio": { "path": "./icons/audio.svg" },
         "css": { "path": "./icons/css.svg" },
         "document": { "path": "./icons/document.svg" },
         "image": { "path": "./icons/image.svg" },
