@@ -11,23 +11,33 @@
         "expanded": "./icons/folder-open.svg"
       },
       "file_suffixes": {
-        "svg": "svg"
+        "svg": "svg",
+        "gitignore": "git",
+        "md": "document",
+        "jsx": "jsx"
       },
       "file_icons": {
         "audio": { "path": "./icons/audio.svg" },
         "css": { "path": "./icons/css.svg" },
+        "default": { "path": "./icons/document.svg" },
         "document": { "path": "./icons/document.svg" },
         "image": { "path": "./icons/image.svg" },
         "svg": { "path": "./icons/svg.svg" },
         "c": { "path": "./icons/c.svg" },
         "cpp": { "path": "./icons/cpp.svg" },
         "csharp": { "path": "./icons/csharp.svg" },
+        "git": { "path": "./icons/git.svg" },
+        "html": { "path": "./icons/html.svg" },
+        "java": { "path": "./icons/java.svg" },
         "javascript": { "path": "./icons/javascript.svg" },
+        "jsx": { "path": "./icons/jsx.svg" },
+        "json": { "path": "./icons/json.svg" },
         "python": { "path": "./icons/python.svg" },
-        "react": { "path": "./icons/react.svg" },
         "ruby": { "path": "./icons/ruby.svg" },
+        "toml": { "path": "./icons/toml.svg" },
         "typescript": { "path": "./icons/typescript.svg" },
-        "rust": { "path": "./icons/rust.svg" }
+        "rust": { "path": "./icons/rust.svg" },
+        "video": { "path": "./icons/video.svg" }
       }
     }
   ]
