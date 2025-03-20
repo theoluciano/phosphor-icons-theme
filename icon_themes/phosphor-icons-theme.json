@@ -14,7 +14,8 @@
         "svg": "svg",
         "gitignore": "git",
         "md": "document",
-        "jsx": "jsx"
+        "jsx": "jsx",
+        "tsx": "jsx"
       },
       "file_icons": {
         "audio": { "path": "./icons/audio.svg" },
@@ -36,6 +37,7 @@
         "ruby": { "path": "./icons/ruby.svg" },
         "toml": { "path": "./icons/toml.svg" },
         "typescript": { "path": "./icons/typescript.svg" },
+        "tsx": { "path": "./icons/tsx.svg" },
         "rust": { "path": "./icons/rust.svg" },
         "video": { "path": "./icons/video.svg" }
       }
