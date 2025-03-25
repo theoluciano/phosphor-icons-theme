@@ -1,6 +1,6 @@
 id = "phosphor-icons-theme"
 name = "Phosphor Icons Theme"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Theo Luciano <theojluciano@gmail.com>"]
 description = "Use Phosphor Icons within the Zed code editor."
